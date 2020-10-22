@@ -1,0 +1,1 @@
+[{"nombre_db":"clientes","email_owner":"juan@dba.com","clasificacion_db":"alta"},{"nombre_db":"usuarios","email_owner":"juan@dba.com","clasificacion_db":"media"},{"nombre_db":"imagenes","email_owner":"roberto@dba.com","clasificacion_db":"baja"}]

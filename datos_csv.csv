@@ -1,0 +1,4 @@
+row_id,user_id,user_state,user_manager
+1,1,activo,pedro@manager.com
+2,2,inactivo,camila@manager.com
+3,3,activo,pamela@manager.com
